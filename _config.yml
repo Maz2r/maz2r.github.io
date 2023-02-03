@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Maz2r"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "쌓아간다는 마인드드"
+  bio              : "쌓아간다는 마인드"
   location         : "Pohang"
-  email            :
+  email            : "tigerinmaze2315@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
