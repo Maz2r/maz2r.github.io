@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Maz2r"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/bio_img.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "쌓아간다는 마인드"
   location         : "Pohang"
   email            : "tigerinmaze2315@gmail.com"
