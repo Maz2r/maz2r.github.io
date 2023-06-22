@@ -18,7 +18,7 @@ last_modified_at: 2022-03-17
 
 ## **🔁 [재귀란 무엇인가?](https://maz2r.github.io/algorithm/algo-recursion/)**
 
- ***재귀***란 어떠한 것을 정의할 때, 그것을 재참조하여 정의하는 방법을 뜻한다. 말이 조금 어려운 것 같다. [B.O.J. 1629번](https://maz2r.github.io/p.sboj-1629/)을 풀 때 정의했던 함수를 살펴보자.
+ ***재귀***란 어떠한 것을 정의할 때, 그것을 재참조하여 정의하는 방법을 뜻한다. 말이 조금 어려운 것 같다. [B.O.J. 1629번](https://maz2r.github.io/p_s_/boj-1629/)을 풀 때 정의했던 함수를 살펴보자.
  ```cpp
  int func(int A, int B, int C){
   if(B == 1){
