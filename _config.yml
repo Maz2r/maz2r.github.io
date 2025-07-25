@@ -21,7 +21,7 @@ title                    : "Folder Named B"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Maz2r"
-description              : "This is Maz2r's blog."
+description              : "Welcome to Maz2r's blog."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
