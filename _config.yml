@@ -117,11 +117,8 @@ author:
   avatar           : "/assets/avatar.jpg"
   bio              : "Welcome to Maz2r's blog."
   location         : "Pohang City"
-  email            : 
+  email            : "seongbin.park@postech.ac.kr"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "seongbin.park@postech.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://maz2r.github.io/"
