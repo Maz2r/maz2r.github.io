@@ -2,15 +2,6 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-sidebar-category:
-  - title: Lectures@POSTECH
-    children:
-      - title: "[2025-2] CSED508(이산및계산기하학)"
-        url: "/2025-2-CSED508"
-        category: "2025-2-CSED508"
-      - title: "[2025-2] CSED701A(특론: 매개변수 알고리즘)"
-        url: "/2025-2-CSED701A"
-        category: "2025-2-CSED701A"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
